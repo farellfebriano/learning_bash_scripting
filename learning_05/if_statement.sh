@@ -1,6 +1,17 @@
 # IF STATEMETN IN BASH
 # set -x
 
+#--------------------------------------------------------#
+# RANDOM NOTE 
+# MOST COMMON OPTION USED FOR []
+
+# '-f' to check if its a regular file
+# '-d' to check if its a directory
+# '-r' to check if its a readable
+# '-w' to check if its writeable
+# '-x' to check if its excutable
+#--------------------------------------------------------#
+
 # perofm simple example if mynum is 50 echo it is 50 and if it 
 # is not it will echo it is not 50 and finally echo the end of 
 # if statement. 
@@ -55,3 +66,6 @@ else
     echo "newNum is less than 0"
 fi 
     echo '----'
+
+
+
