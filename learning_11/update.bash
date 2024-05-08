@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 release_file="/etc/os-release"
 logfile="log_file.txt"
 errorfile="error_log.txt"
